@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/sdawpadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdawpadi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sashini-dawpadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sashini-dawpadi" height="30" width="40" /></a>
-<a href="https://medium.com/@sashini dawpadi hettiarachchige" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sashini dawpadi hettiarachchige" height="30" width="40" /></a>
+<a href="https://medium.com/@sashinidawpadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sashinidawpadi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sashinidawpadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sashinidawpadi" height="30" width="40" /></a>
 </p>
 
@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sashinidawpadi&show_icons=true&locale=en" alt="sashinidawpadi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sashinidawpadi&" alt="sashinidawpadi" /></p>
+
