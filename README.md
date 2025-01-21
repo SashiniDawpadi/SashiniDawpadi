@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sashini Dawpadi</h1>
-<h3 align="center">An Undergraduate at University Of Moratuwa</h3>
+<h3 align="center">Graduate from University of Moratuwa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sashinidawpadi&label=Profile%20views&color=0e75b6&style=flat" alt="sashinidawpadi" /> </p>
 
